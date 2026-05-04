@@ -1,0 +1,88 @@
+📊 UCCIS PHASE 2 — FEATURE EXTRACTION OUTPUT
+
+{
+  "zoneA": {
+    "traffic_history": [
+      60,
+      68,
+      75,
+      82
+    ],
+    "violations_history": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "features": {
+      "trafficAvg": 75,
+      "violationAvg": 2,
+      "trafficTrend": "increasing",
+      "violationTrend": "increasing",
+      "riskScore": 70
+    }
+  },
+  "zoneB": {
+    "traffic_history": [
+      30,
+      28,
+      25,
+      20
+    ],
+    "violations_history": [
+      0,
+      1,
+      1,
+      2
+    ],
+    "features": {
+      "trafficAvg": 24.33,
+      "violationAvg": 1.33,
+      "trafficTrend": "decreasing",
+      "violationTrend": "increasing",
+      "riskScore": 20
+    }
+  },
+  "zoneC": {
+    "traffic_history": [
+      80,
+      85,
+      88,
+      92
+    ],
+    "violations_history": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "features": {
+      "trafficAvg": 88.33,
+      "violationAvg": 4,
+      "trafficTrend": "increasing",
+      "violationTrend": "increasing",
+      "riskScore": 70
+    }
+  },
+  "zoneD": {
+    "traffic_history": [
+      10,
+      12,
+      14,
+      16
+    ],
+    "violations_history": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "features": {
+      "trafficAvg": 14,
+      "violationAvg": 0.67,
+      "trafficTrend": "increasing",
+      "violationTrend": "stable",
+      "riskScore": 20
+    }
+  }
+}

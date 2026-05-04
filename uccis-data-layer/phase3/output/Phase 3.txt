@@ -1,0 +1,68 @@
+🚀 UCCIS PHASE 3 OUTPUT
+
+{
+  "zoneA": {
+    "input": [
+      75,
+      82,
+      88
+    ],
+    "last3": [
+      75,
+      82,
+      88
+    ],
+    "average": 81.67,
+    "trend": 13,
+    "predicted": 82.97,
+    "classification": "HIGH"
+  },
+  "zoneB": {
+    "input": [
+      40,
+      55,
+      60
+    ],
+    "last3": [
+      40,
+      55,
+      60
+    ],
+    "average": 51.67,
+    "trend": 20,
+    "predicted": 53.67,
+    "classification": "MEDIUM"
+  },
+  "zoneC": {
+    "input": [
+      90,
+      92,
+      95
+    ],
+    "last3": [
+      90,
+      92,
+      95
+    ],
+    "average": 92.33,
+    "trend": 5,
+    "predicted": 92.83,
+    "classification": "HIGH"
+  },
+  "zoneD": {
+    "input": [
+      20,
+      25,
+      30
+    ],
+    "last3": [
+      20,
+      25,
+      30
+    ],
+    "average": 25,
+    "trend": 10,
+    "predicted": 26,
+    "classification": "LOW"
+  }
+}

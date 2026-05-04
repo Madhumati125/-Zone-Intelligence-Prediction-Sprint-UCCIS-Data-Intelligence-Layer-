@@ -1,0 +1,108 @@
+🧠 UCCIS PHASE 4 — REASONING OUTPUT
+
+{
+  "zoneA": {
+    "input": [
+      75,
+      82,
+      88
+    ],
+    "prediction": {
+      "last3": [
+        75,
+        82,
+        88
+      ],
+      "average": 81.67,
+      "trend": 13,
+      "predicted": 82.97
+    },
+    "classification": "HIGH",
+    "explanation": {
+      "prediction": "zoneA likely HIGH in next cycle",
+      "reasons": [
+        "trend is increasing",
+        "high activity detected",
+        "stable zone behavior"
+      ]
+    }
+  },
+  "zoneB": {
+    "input": [
+      40,
+      55,
+      60
+    ],
+    "prediction": {
+      "last3": [
+        40,
+        55,
+        60
+      ],
+      "average": 51.67,
+      "trend": 20,
+      "predicted": 53.67
+    },
+    "classification": "MEDIUM",
+    "explanation": {
+      "prediction": "zoneB likely MEDIUM in next cycle",
+      "reasons": [
+        "trend is increasing",
+        "moderate activity detected",
+        "high fluctuation in values"
+      ]
+    }
+  },
+  "zoneC": {
+    "input": [
+      90,
+      92,
+      95
+    ],
+    "prediction": {
+      "last3": [
+        90,
+        92,
+        95
+      ],
+      "average": 92.33,
+      "trend": 5,
+      "predicted": 92.83
+    },
+    "classification": "HIGH",
+    "explanation": {
+      "prediction": "zoneC likely HIGH in next cycle",
+      "reasons": [
+        "trend is increasing",
+        "high activity detected",
+        "stable zone behavior"
+      ]
+    }
+  },
+  "zoneD": {
+    "input": [
+      20,
+      25,
+      30
+    ],
+    "prediction": {
+      "last3": [
+        20,
+        25,
+        30
+      ],
+      "average": 25,
+      "trend": 10,
+      "predicted": 26
+    },
+    "classification": "LOW",
+    "explanation": {
+      "prediction": "zoneD likely LOW in next cycle",
+      "reasons": [
+        "trend is increasing",
+        "low activity detected",
+        "stable zone behavior"
+      ]
+    }
+  }
+}
